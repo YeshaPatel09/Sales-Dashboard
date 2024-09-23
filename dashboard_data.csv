@@ -1,0 +1,367 @@
+S No,Date,Salesman,Region,Item,Qty,Price,Amount
+1,01-01-2017,Ajit Kumar,East,Mouse,7,210,1470
+2,02-01-2017,Rohit Das,West,Printer,6,2100,12600
+3,03-01-2017,Ramesh,East,Monitor,5,1200,6000
+4,04-01-2017,Amit,West,Scanner,4,1500,6000
+5,05-01-2017,Chandu,East,Speaker,3,300,900
+6,06-01-2017,Siddhu,East,Keyboard,2,190,380
+7,07-01-2017,Ajit Kumar,East,Mouse,7,210,1470
+8,08-01-2017,Rohit Das,West,Printer,6,2100,12600
+9,09-01-2017,Ramesh,West,Monitor,5,1200,6000
+10,10-01-2018,Amit,East,Scanner,4,1500,6000
+11,11-01-2018,Chandu,East,Speaker,3,300,900
+12,12-01-2018,Siddhu,West,Keyboard,2,190,380
+13,13-01-2018,Siddhu,East,Mouse,2,210,420
+14,14-01-2018,Ajit Kumar,East,Printer,7,2100,14700
+15,15-01-2018,Rohit Das,East,Monitor,6,1200,7200
+16,16-01-2018,Ramesh,East,Scanner,5,1500,7500
+17,17-01-2018,Amit,East,Speaker,4,300,1200
+18,18-01-2018,Chandu,East,Keyboard,3,190,570
+19,19-01-2018,Siddhu,East,Mouse,2,210,420
+20,20-01-2019,Ajit Kumar,East,Monitor,7,2100,14700
+21,21-01-2019,Rohit Das,West,Scanner,6,1200,7200
+22,22-01-2019,Ramesh,East,Speaker,5,300,1500
+23,23-01-2019,Amit,West,Keyboard,4,200,800
+24,24-01-2019,Chandu,East,Mouse,3,190,570
+25,25-01-2019,Siddhu,East,Printer,2,2100,4200
+26,26-01-2019,Siddhu,East,Mouse,7,210,1470
+27,27-01-2019,Ajit Kumar,East,Printer,6,2100,12600
+28,28-01-2019,Ajit Kumar,West,Mouse,7,210,1470
+29,29-01-2019,Ajit Kumar,North,Mouse,7,210,1470
+30,30-01-2020,Ajit Kumar,South,Mouse,7,210,1470
+31,31-01-2020,Ajit Kumar,East,Mouse,7,210,1470
+32,01-02-2020,Ajit Kumar,West,Mouse,7,210,1470
+33,02-02-2020,Ajit Kumar,North,Mouse,7,210,1470
+34,03-02-2020,Ajit Kumar,South,Mouse,7,210,1470
+35,04-02-2020,Rohit Das,West,Mouse,7,210,1470
+36,05-02-2020,Rohit Das,East,Mouse,7,210,1470
+37,06-02-2020,Rohit Das,North,Keyboard,2,190,380
+38,07-02-2020,Rohit Das,South,Mouse,2,210,420
+39,08-02-2020,Rohit Das,West,Printer,7,2100,14700
+40,09-02-2021,Rohit Das,East,Monitor,6,1200,7200
+41,10-02-2021,Rohit Das,North,Printer,7,2100,14700
+42,11-02-2021,Rohit Das,South,Printer,7,2100,14700
+43,12-02-2021,Ramesh,South,Printer,7,2100,14700
+44,13-02-2021,Amit,South,Printer,7,2100,14700
+45,14-02-2021,Chandu,South,Printer,7,2100,14700
+46,15-02-2021,Siddhu,South,Printer,7,2100,14700
+47,16-02-2021,Siddhu,East,Printer,7,2100,14700
+48,17-02-2021,Siddhu,West,Printer,7,2100,14700
+49,18-02-2021,Siddhu,North,Printer,7,2100,14700
+50,19-02-2017,Siddhu,South,Printer,7,2100,14700
+51,20-02-2017,Siddhu,East,Mouse,7,210,1470
+52,21-02-2017,Siddhu,West,Printer,6,2100,12600
+53,22-02-2017,Siddhu,North,Monitor,5,1200,6000
+54,23-02-2017,Siddhu,South,Scanner,4,1500,6000
+55,24-02-2017,Ajit Kumar,East,Speaker,3,300,900
+56,25-02-2017,Rohit Das,West,Keyboard,2,190,380
+57,26-02-2017,Ramesh,East,Mouse,7,210,1470
+58,27-02-2017,Amit,West,Printer,6,2100,12600
+59,28-02-2017,Chandu,East,Monitor,5,1200,6000
+60,01-03-2017,Siddhu,East,Scanner,4,1500,6000
+61,02-03-2017,Ajit Kumar,East,Speaker,3,300,900
+62,03-03-2017,Rohit Das,West,Keyboard,2,190,380
+63,04-03-2017,Ramesh,West,Mouse,2,210,420
+64,05-03-2017,Amit,East,Printer,7,2100,14700
+65,06-03-2017,Chandu,East,Monitor,6,1200,7200
+66,07-03-2017,Siddhu,West,Scanner,5,1500,7500
+67,08-03-2017,Siddhu,East,Speaker,4,300,1200
+68,09-03-2017,Ajit Kumar,East,Keyboard,3,190,570
+69,10-03-2017,Rohit Das,East,Mouse,2,210,420
+70,11-03-2019,Ramesh,East,Keyboard,3,190,570
+71,12-03-2019,Amit,East,Mouse,2,210,420
+72,13-03-2019,Chandu,East,Keyboard,3,190,570
+73,14-03-2019,Siddhu,East,Mouse,2,210,420
+74,15-03-2019,Ajit Kumar,East,Keyboard,3,190,570
+75,16-03-2019,Rohit Das,West,Mouse,2,210,420
+76,17-03-2019,Ramesh,East,Keyboard,3,190,570
+77,18-03-2019,Amit,West,Mouse,2,210,420
+78,19-03-2019,Chandu,East,Monitor,5,1200,6000
+79,20-03-2019,Siddhu,East,Scanner,4,1500,6000
+80,21-03-2019,Siddhu,East,Speaker,3,300,900
+81,22-03-2019,Ajit Kumar,East,Keyboard,2,190,380
+82,23-03-2019,Ajit Kumar,West,Mouse,7,210,1470
+83,24-03-2019,Ajit Kumar,North,Printer,6,2100,12600
+84,25-03-2019,Ajit Kumar,South,Monitor,5,1200,6000
+85,26-03-2019,Ajit Kumar,East,Scanner,4,1500,6000
+86,27-03-2018,Ajit Kumar,West,Speaker,3,300,900
+87,28-03-2018,Ajit Kumar,North,Keyboard,2,190,380
+88,29-03-2018,Ajit Kumar,South,Mouse,2,210,420
+89,30-03-2018,Rohit Das,West,Speaker,3,300,900
+90,31-03-2018,Rohit Das,East,Speaker,3,300,900
+91,01-04-2018,Rohit Das,North,Speaker,3,300,900
+92,02-04-2018,Rohit Das,South,Speaker,3,300,900
+93,03-04-2018,Rohit Das,West,Speaker,3,300,900
+94,04-04-2018,Rohit Das,East,Speaker,3,300,900
+95,05-04-2018,Rohit Das,North,Speaker,3,300,900
+96,06-04-2018,Rohit Das,South,Speaker,3,300,900
+97,07-04-2018,Ramesh,South,Speaker,3,300,900
+98,08-04-2018,Amit,South,Speaker,3,300,900
+99,09-04-2018,Chandu,South,Mouse,3,190,570
+100,10-04-2018,Siddhu,South,Printer,2,2100,4200
+101,11-04-2018,Siddhu,East,Mouse,7,210,1470
+102,12-04-2018,Siddhu,West,Printer,6,2100,12600
+103,13-04-2018,Siddhu,North,Monitor,5,1200,6000
+104,14-04-2018,Siddhu,South,Printer,6,2100,12600
+105,15-04-2018,Siddhu,East,Monitor,5,1200,6000
+106,16-04-2018,Siddhu,West,Keyboard,2,190,380
+107,17-04-2018,Siddhu,North,Printer,6,2100,12600
+108,18-04-2018,Siddhu,South,Monitor,5,1200,6000
+109,19-04-2018,Ajit Kumar,East,Printer,6,2100,12600
+110,20-04-2018,Rohit Das,West,Monitor,5,1200,6000
+111,21-04-2018,Ramesh,East,Printer,6,2100,12600
+112,22-04-2018,Amit,West,Monitor,5,1200,6000
+113,23-04-2018,Chandu,East,Mouse,2,210,420
+114,24-04-2018,Siddhu,East,Printer,7,2100,14700
+115,25-04-2018,Ajit Kumar,East,Monitor,6,1200,7200
+116,26-04-2018,Rohit Das,West,Scanner,5,1500,7500
+117,27-04-2018,Ramesh,West,Speaker,4,300,1200
+118,28-04-2018,Amit,East,Keyboard,3,190,570
+119,29-04-2018,Chandu,East,Mouse,2,210,420
+120,30-04-2018,Siddhu,West,Monitor,7,2100,14700
+121,01-05-2018,Siddhu,East,Scanner,6,1200,7200
+122,02-05-2018,Ajit Kumar,East,Speaker,5,300,1500
+123,03-05-2018,Rohit Das,East,Keyboard,4,200,800
+124,04-05-2018,Ramesh,East,Mouse,3,190,570
+125,05-05-2018,Amit,East,Printer,2,2100,4200
+126,06-05-2018,Chandu,East,Mouse,7,210,1470
+127,07-05-2018,Siddhu,East,Printer,6,2100,12600
+128,08-05-2018,Ajit Kumar,East,Monitor,5,1200,6000
+129,09-05-2018,Rohit Das,West,Scanner,4,1500,6000
+130,10-05-2018,Ramesh,East,Speaker,3,300,900
+131,11-05-2018,Amit,West,Keyboard,2,190,380
+132,12-05-2018,Chandu,East,Mouse,7,210,1470
+133,13-05-2018,Siddhu,East,Printer,6,2100,12600
+134,14-05-2018,Siddhu,East,Monitor,5,1200,6000
+135,15-05-2018,Ajit Kumar,East,Scanner,4,1500,6000
+136,16-05-2018,Ajit Kumar,West,Speaker,3,300,900
+137,17-05-2018,Ajit Kumar,North,Keyboard,2,190,380
+138,18-05-2018,Ajit Kumar,South,Mouse,2,210,420
+139,19-05-2018,Ajit Kumar,East,Printer,7,2100,14700
+140,20-05-2018,Ajit Kumar,West,Monitor,6,1200,7200
+141,21-05-2018,Ajit Kumar,North,Scanner,5,1500,7500
+142,22-05-2018,Ajit Kumar,South,Speaker,4,300,1200
+143,23-05-2018,Rohit Das,West,Keyboard,3,190,570
+144,24-05-2018,Rohit Das,East,Speaker,4,300,1200
+145,25-05-2018,Rohit Das,North,Speaker,4,300,1200
+146,26-05-2018,Rohit Das,South,Speaker,4,300,1200
+147,27-05-2018,Rohit Das,West,Speaker,4,300,1200
+148,28-05-2018,Rohit Das,East,Speaker,4,300,1200
+149,29-05-2018,Rohit Das,North,Speaker,4,300,1200
+150,30-05-2018,Rohit Das,South,Speaker,4,300,1200
+151,31-05-2018,Ramesh,South,Speaker,4,300,1200
+152,01-06-2018,Amit,South,Printer,6,2100,12600
+153,02-06-2018,Chandu,South,Monitor,5,1200,6000
+154,03-06-2018,Siddhu,South,Scanner,4,1500,6000
+155,04-06-2018,Siddhu,East,Speaker,3,300,900
+156,05-06-2018,Siddhu,West,Keyboard,2,190,380
+157,06-06-2018,Siddhu,North,Mouse,7,210,1470
+158,07-06-2018,Siddhu,South,Printer,6,2100,12600
+159,08-06-2018,Siddhu,East,Monitor,5,1200,6000
+160,09-06-2018,Siddhu,West,Scanner,4,1500,6000
+161,10-06-2018,Siddhu,North,Speaker,3,300,900
+162,11-06-2018,Siddhu,South,Keyboard,2,190,380
+163,12-06-2018,Ajit Kumar,East,Mouse,2,210,420
+164,13-06-2018,Rohit Das,West,Printer,7,2100,14700
+165,14-06-2018,Ramesh,East,Monitor,6,1200,7200
+166,15-06-2018,Amit,West,Scanner,5,1500,7500
+167,16-06-2018,Chandu,East,Speaker,4,300,1200
+168,17-06-2018,Siddhu,East,Keyboard,3,190,570
+169,18-06-2018,Ajit Kumar,East,Mouse,2,210,420
+170,19-06-2018,Rohit Das,West,Monitor,7,2100,14700
+171,20-06-2018,Ramesh,West,Scanner,6,1200,7200
+172,21-06-2018,Amit,East,Speaker,5,300,1500
+173,22-06-2018,Chandu,East,Keyboard,4,200,800
+174,23-06-2018,Siddhu,West,Mouse,3,190,570
+175,24-06-2018,Siddhu,East,Printer,2,2100,4200
+176,25-06-2018,Ajit Kumar,East,Mouse,7,210,1470
+177,26-06-2018,Rohit Das,East,Mouse,3,190,570
+178,27-06-2018,Ramesh,East,Mouse,3,190,570
+179,28-06-2018,Amit,East,Mouse,3,190,570
+180,29-06-2020,Chandu,East,Mouse,3,190,570
+181,30-06-2020,Siddhu,East,Mouse,3,190,570
+182,01-07-2020,Ajit Kumar,East,Mouse,3,190,570
+183,02-07-2020,Rohit Das,West,Mouse,3,190,570
+184,03-07-2020,Ramesh,East,Monitor,5,1200,6000
+185,04-07-2020,Amit,West,Scanner,4,1500,6000
+186,05-07-2020,Chandu,East,Speaker,3,300,900
+187,06-07-2020,Siddhu,East,Keyboard,2,190,380
+188,07-07-2020,Siddhu,East,Mouse,2,210,420
+189,08-07-2020,Ajit Kumar,East,Printer,7,2100,14700
+190,09-07-2020,Ajit Kumar,West,Monitor,6,1200,7200
+191,10-07-2020,Ajit Kumar,North,Scanner,5,1500,7500
+192,11-07-2020,Ajit Kumar,South,Speaker,4,300,1200
+193,12-07-2020,Ajit Kumar,East,Keyboard,3,190,570
+194,13-07-2020,Ajit Kumar,West,Mouse,2,210,420
+195,14-07-2020,Ajit Kumar,North,Monitor,7,2100,14700
+196,15-07-2020,Ajit Kumar,South,Scanner,6,1200,7200
+197,16-07-2020,Rohit Das,West,Speaker,5,300,1500
+198,17-07-2020,Rohit Das,East,Keyboard,4,200,800
+199,18-07-2020,Rohit Das,North,Mouse,3,190,570
+200,19-07-2020,Rohit Das,South,Printer,2,2100,4200
+201,20-07-2020,Rohit Das,West,Mouse,7,210,1470
+202,21-07-2020,Rohit Das,East,Printer,6,2100,12600
+203,22-07-2020,Rohit Das,North,Monitor,5,1200,6000
+204,23-07-2020,Rohit Das,South,Scanner,4,1500,6000
+205,24-07-2020,Ramesh,South,Speaker,3,300,900
+206,25-07-2020,Amit,South,Keyboard,2,190,380
+207,26-07-2020,Chandu,South,Mouse,7,210,1470
+208,27-07-2020,Siddhu,South,Printer,6,2100,12600
+209,28-07-2020,Siddhu,East,Monitor,5,1200,6000
+210,29-07-2020,Siddhu,West,Scanner,4,1500,6000
+211,30-07-2020,Siddhu,North,Speaker,3,300,900
+212,31-07-2020,Siddhu,South,Keyboard,2,190,380
+213,01-08-2020,Siddhu,East,Mouse,2,210,420
+214,02-08-2020,Siddhu,West,Printer,7,2100,14700
+215,03-08-2020,Siddhu,North,Monitor,6,1200,7200
+216,04-08-2020,Siddhu,South,Scanner,5,1500,7500
+217,05-08-2020,Ajit Kumar,East,Speaker,4,300,1200
+218,06-08-2020,Rohit Das,West,Keyboard,3,190,570
+219,07-08-2020,Ramesh,East,Mouse,2,210,420
+220,08-08-2020,Amit,West,Monitor,7,2100,14700
+221,09-08-2020,Chandu,East,Scanner,6,1200,7200
+222,10-08-2020,Siddhu,East,Speaker,5,300,1500
+223,11-08-2020,Ajit Kumar,East,Keyboard,4,200,800
+224,12-08-2020,Rohit Das,West,Mouse,3,190,570
+225,13-08-2020,Ramesh,West,Printer,2,2100,4200
+226,14-08-2020,Amit,East,Mouse,7,210,1470
+227,15-08-2020,Chandu,East,Printer,6,2100,12600
+228,16-08-2020,Siddhu,West,Monitor,5,1200,6000
+229,17-08-2020,Siddhu,East,Scanner,4,1500,6000
+230,18-08-2020,Ajit Kumar,East,Speaker,3,300,900
+231,19-08-2020,Rohit Das,East,Keyboard,2,190,380
+232,20-08-2020,Ramesh,East,Mouse,7,210,1470
+233,21-08-2020,Amit,East,Printer,6,2100,12600
+234,22-08-2020,Chandu,East,Printer,7,2100,14700
+235,23-08-2020,Siddhu,East,Scanner,4,1500,6000
+236,24-08-2020,Ajit Kumar,East,Speaker,3,300,900
+237,25-08-2020,Rohit Das,West,Keyboard,2,190,380
+238,26-08-2020,Ramesh,East,Mouse,2,210,420
+239,27-08-2020,Amit,West,Printer,7,2100,14700
+240,28-08-2020,Chandu,East,Monitor,6,1200,7200
+241,29-08-2020,Siddhu,East,Scanner,5,1500,7500
+242,30-08-2020,Siddhu,East,Speaker,4,300,1200
+243,31-08-2020,Ajit Kumar,East,Speaker,3,300,900
+244,01-09-2020,Ajit Kumar,West,Keyboard,2,190,380
+245,02-09-2020,Ajit Kumar,North,Mouse,2,210,420
+246,03-09-2020,Ajit Kumar,South,Printer,7,2100,14700
+247,04-09-2020,Ajit Kumar,East,Monitor,6,1200,7200
+248,05-09-2020,Ajit Kumar,West,Scanner,5,1500,7500
+249,06-09-2020,Ajit Kumar,North,Speaker,4,300,1200
+250,07-09-2020,Ajit Kumar,South,Speaker,3,300,900
+251,08-09-2020,Rohit Das,West,Keyboard,2,190,380
+252,09-09-2020,Rohit Das,East,Mouse,2,210,420
+253,10-09-2020,Rohit Das,North,Printer,7,2100,14700
+254,11-09-2020,Rohit Das,South,Monitor,6,1200,7200
+255,12-09-2020,Rohit Das,West,Scanner,5,1500,7500
+256,13-09-2020,Rohit Das,East,Speaker,4,300,1200
+257,14-09-2020,Rohit Das,North,Mouse,7,210,1470
+258,15-09-2020,Rohit Das,South,Printer,6,2100,12600
+259,16-09-2020,Ramesh,South,Monitor,5,1200,6000
+260,17-09-2020,Amit,South,Scanner,4,1500,6000
+261,18-09-2020,Chandu,South,Speaker,3,300,900
+262,19-09-2020,Siddhu,South,Keyboard,2,190,380
+263,20-09-2018,Siddhu,East,Mouse,2,210,420
+264,21-09-2018,Siddhu,West,Printer,7,2100,14700
+265,22-09-2018,Siddhu,North,Monitor,6,1200,7200
+266,23-09-2018,Siddhu,South,Scanner,5,1500,7500
+267,24-09-2018,Siddhu,East,Printer,7,2100,14700
+268,25-09-2018,Siddhu,West,Printer,7,2100,14700
+269,26-09-2018,Siddhu,North,Printer,7,2100,14700
+270,27-09-2018,Siddhu,South,Printer,7,2100,14700
+271,28-09-2018,Ajit Kumar,East,Printer,7,2100,14700
+272,29-09-2018,Rohit Das,West,Printer,7,2100,14700
+273,30-09-2018,Ramesh,East,Printer,7,2100,14700
+274,01-10-2018,Amit,West,Printer,7,2100,14700
+275,02-10-2018,Chandu,East,Printer,7,2100,14700
+276,03-10-2018,Siddhu,East,Printer,7,2100,14700
+277,04-10-2018,Ajit Kumar,East,Printer,7,2100,14700
+278,05-10-2018,Rohit Das,West,Monitor,5,1200,6000
+279,06-10-2018,Ramesh,West,Scanner,4,1500,6000
+280,07-10-2018,Amit,East,Speaker,3,300,900
+281,08-10-2018,Chandu,East,Keyboard,2,190,380
+282,09-10-2018,Siddhu,West,Mouse,7,210,1470
+283,10-10-2018,Siddhu,East,Printer,6,2100,12600
+284,11-10-2018,Ajit Kumar,East,Monitor,5,1200,6000
+285,12-10-2018,Rohit Das,East,Scanner,4,1500,6000
+286,13-10-2018,Ramesh,East,Speaker,3,300,900
+287,14-10-2018,Amit,East,Keyboard,2,190,380
+288,15-10-2018,Chandu,East,Mouse,2,210,420
+289,16-10-2018,Siddhu,East,Printer,7,2100,14700
+290,17-10-2018,Ajit Kumar,East,Monitor,6,1200,7200
+291,18-10-2018,Rohit Das,West,Scanner,5,1500,7500
+292,19-10-2018,Ramesh,East,Speaker,4,300,1200
+293,20-10-2018,Amit,West,Scanner,5,1500,7500
+294,21-10-2018,Chandu,East,Speaker,4,300,1200
+295,22-10-2018,Siddhu,East,Scanner,5,1500,7500
+296,23-10-2017,Siddhu,East,Speaker,4,300,1200
+297,24-10-2017,Ajit Kumar,East,Scanner,5,1500,7500
+298,25-10-2017,Ajit Kumar,West,Speaker,4,300,1200
+299,26-10-2017,Ajit Kumar,North,Scanner,5,1500,7500
+300,27-10-2017,Ajit Kumar,South,Speaker,4,300,1200
+301,28-10-2017,Ajit Kumar,East,Scanner,5,1500,7500
+302,29-10-2017,Ajit Kumar,West,Printer,6,2100,12600
+303,30-10-2017,Ajit Kumar,North,Monitor,5,1200,6000
+304,31-10-2017,Ajit Kumar,South,Scanner,4,1500,6000
+305,01-11-2017,Rohit Das,West,Speaker,3,300,900
+306,02-11-2017,Rohit Das,East,Keyboard,2,190,380
+307,03-11-2017,Rohit Das,North,Keyboard,2,190,380
+308,04-11-2017,Rohit Das,South,Keyboard,2,190,380
+309,05-11-2017,Rohit Das,West,Keyboard,2,190,380
+310,06-11-2017,Rohit Das,East,Keyboard,2,190,380
+311,07-11-2017,Rohit Das,North,Keyboard,2,190,380
+312,08-11-2017,Rohit Das,South,Keyboard,2,190,380
+313,09-11-2017,Ramesh,South,Keyboard,2,190,380
+314,10-11-2017,Amit,South,Keyboard,2,190,380
+315,11-11-2017,Chandu,South,Keyboard,2,190,380
+316,12-11-2017,Siddhu,South,Keyboard,2,190,380
+317,13-11-2017,Siddhu,East,Keyboard,2,190,380
+318,14-11-2017,Siddhu,West,Keyboard,3,190,570
+319,15-11-2017,Siddhu,North,Mouse,2,210,420
+320,16-11-2017,Siddhu,South,Mouse,2,210,420
+321,17-11-2017,Siddhu,East,Mouse,2,210,420
+322,18-11-2017,Siddhu,West,Mouse,2,210,420
+323,19-11-2021,Siddhu,North,Mouse,2,210,420
+324,20-11-2021,Siddhu,South,Mouse,2,210,420
+325,21-11-2021,Ajit Kumar,East,Mouse,2,210,420
+326,22-11-2021,Rohit Das,West,Mouse,2,210,420
+327,23-11-2021,Ramesh,East,Mouse,2,210,420
+328,24-11-2021,Amit,West,Mouse,2,210,420
+329,25-11-2021,Chandu,East,Mouse,2,210,420
+330,26-11-2021,Siddhu,East,Mouse,2,210,420
+331,27-11-2021,Ajit Kumar,East,Keyboard,2,190,380
+332,28-11-2021,Rohit Das,West,Mouse,7,210,1470
+333,29-11-2021,Ramesh,West,Printer,6,2100,12600
+334,30-11-2021,Amit,East,Monitor,5,1200,6000
+335,01-12-2021,Chandu,East,Scanner,4,1500,6000
+336,02-12-2021,Siddhu,West,Scanner,4,1500,6000
+337,03-12-2021,Siddhu,East,Scanner,4,1500,6000
+338,04-12-2021,Ajit Kumar,East,Scanner,4,1500,6000
+339,05-12-2021,Rohit Das,East,Scanner,4,1500,6000
+340,06-12-2021,Ramesh,East,Scanner,4,1500,6000
+341,07-12-2021,Amit,East,Scanner,4,1500,6000
+342,08-12-2021,Chandu,East,Scanner,4,1500,6000
+343,09-12-2021,Siddhu,East,Scanner,4,1500,6000
+344,10-12-2021,Ajit Kumar,East,Mouse,2,210,420
+345,11-12-2021,Rohit Das,West,Monitor,7,2100,14700
+346,12-12-2021,Ramesh,East,Scanner,6,1200,7200
+347,13-12-2021,Amit,West,Speaker,5,300,1500
+348,14-12-2021,Chandu,East,Keyboard,4,200,800
+349,15-12-2021,Siddhu,East,Mouse,3,190,570
+350,16-12-2021,Siddhu,East,Printer,2,2100,4200
+351,17-12-2021,Ajit Kumar,East,Mouse,7,210,1470
+352,18-12-2021,Ajit Kumar,West,Printer,6,2100,12600
+353,19-12-2017,Ajit Kumar,North,Monitor,5,1200,6000
+354,20-12-2017,Ajit Kumar,South,Scanner,4,1500,6000
+355,21-12-2021,Ajit Kumar,East,Speaker,3,300,900
+356,22-12-2021,Ajit Kumar,West,Keyboard,2,190,380
+357,23-12-2021,Ajit Kumar,North,Mouse,7,210,1470
+358,24-12-2021,Ajit Kumar,South,Printer,6,2100,12600
+359,25-12-2021,Rohit Das,West,Printer,6,2100,12600
+360,26-12-2021,Rohit Das,East,Printer,6,2100,12600
+361,27-12-2021,Rohit Das,North,Printer,6,2100,12600
+362,28-12-2021,Rohit Das,South,Printer,6,2100,12600
+363,29-12-2021,Rohit Das,West,Printer,6,2100,12600
+364,30-12-2021,Rohit Das,East,Printer,6,2100,12600
+365,31-12-2021,Rohit Das,North,Monitor,6,1200,7200
+366,01-01-2021,Rohit Das,South,Scanner,5,1500,7500
